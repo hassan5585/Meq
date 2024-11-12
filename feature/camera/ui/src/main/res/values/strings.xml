@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="item_estimate_description">%1$s width = %2$s height = %3$s</string>
+</resources>
